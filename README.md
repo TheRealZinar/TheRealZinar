@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.youtube.com/channel/UCAxisMOOiz9PA_-yYIWX4-Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UCAxisMOOiz9PA_-yYIWX4-Q" height="30" width="40" /></a>
-  <a href="https://discord.gg/the_real_zinarewers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="the_real_zinarewers" height="30" width="40" /></a>
+  <a href="https://discord.com/users/229303743361843201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="229303743361843201" height="30" width="40" /></a>
   <a href="https://steamcommunity.com/profiles/76561198114924304/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/512px-Steam_icon_logo.svg.png" alt="Steam" width="30" height="30"/></a>
 </p>
 
