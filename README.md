@@ -36,7 +36,7 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
 
-<a href="https://info.flagcounter.com/NITf"><img src="https://s11.flagcounter.com/countxl/NITf/bg_861E8A/txt_FFFFFF/border_CCCCCC/columns_7/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="TheRealZinar Flag Counter" border="0"></a>
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheRealZinar&show_icons=true&locale=en&layout=compact" alt="TheRealZinar" /></p>
 
