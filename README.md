@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Morten</h1>
 <h3 align="center">A passionate IT-Sec Student from Denmark</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=therealzinar&label=Profile%20views&color=0e75b6&style=flat" alt="therealzinar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TheRealZinar&label=Profile%20views&color=0e75b6&style=flat" alt="TheRealZinar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=therealzinar" alt="therealzinar" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TheRealZinar" alt="TheRealZinar" /></a> </p>
 
 - 🌱 I’m currently learning **IT-Sec**
 
@@ -36,6 +36,6 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=therealzinar&show_icons=true&locale=en&layout=compact" alt="therealzinar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheRealZinar&show_icons=true&locale=en&layout=compact" alt="TheRealZinar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=therealzinar&" alt="therealzinar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TheRealZinar&" alt="TheRealZinar" /></p>
