@@ -36,7 +36,10 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
 
-
+<h3 align="left">Flag Counter:</h3>
+<p align="left">
+  <a href="https://info.flagcounter.com/y4AX"><img src="https://s01.flagcounter.com/count2/y4AX/bg_C2FFE9/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+</p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheRealZinar&show_icons=true&locale=en&layout=compact" alt="TheRealZinar" /></p>
 
